@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #4ba3eb!important;
+    color: #fff!important;
+}
+main {
+    text-align: center;
+}
+h1 {
+    font-weight: 100!important;
+}
+.trigger, a {
+    display: block;
+    margin: 15px auto;
+    padding: 10px;
+    border: 1px solid #fff;
+    background: transparent;
+    width: 300px;
+    padding: 5px;
+    color: #fff!important ;
+}
+
